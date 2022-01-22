@@ -11,4 +11,4 @@
 ### Screenshots
 
 - Click on fetch users to retrive date from https://randomusers.me , display over the page and store in DB </br></br>
-<img src="https://raw.githubusercontent.com/amitleuva1987/employee-management/main/screenshot.jpg" /> 
+<img src="https://raw.githubusercontent.com/amitleuva1987/random_users/main/screenshot.jpg" /> 
